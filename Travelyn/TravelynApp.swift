@@ -11,7 +11,7 @@ import SwiftUI
 struct TravelynApp: App {
     var body: some Scene {
         WindowGroup {
-            GetStartedView()
+            MainPageView()
         }
     }
 }
